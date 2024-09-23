@@ -3,18 +3,17 @@ This project involves the analysis of a large dataset of U.S. traffic accidents,
 
 Objective :
 The project is designed to:
-
 Analyze traffic accident data to uncover patterns related to weather and time.
 Visualize accident hotspots across the U.S. using geographic data.
 Explore the relationship between weather conditions and accident occurrence.
-Dataset
-The dataset used in this analysis consists of 500,000 sampled records of traffic accidents in the U.S., containing fields such as:
 
-Date and time of the accident :
+Dataset :
+The dataset used in this analysis consists of 500,000 sampled records of traffic accidents in the U.S., containing fields such as:
+Date and time of the accident 
 Geographic location (latitude, longitude)
 Weather conditions (e.g., temperature, visibility)
 Road and traffic conditions
-The original dataset can be accessed via Kaggle - US Accidents Dataset.
+The original dataset can be accessed via Kaggle - [US Accidents Dataset](https://drive.google.com/file/d/1U3u8QYzLjnEaSurtZfSAS_oh9AT2Mn8X/edit).
 
 Key Features :
 Data Cleaning: Handling missing values and parsing timestamps.
